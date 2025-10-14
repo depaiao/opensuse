@@ -1,9 +1,0 @@
-[kde-extra]
-name=kde-extra
-enabled=1
-autorefresh=0
-baseurl=https://download.opensuse.org/repositories/KDE:/Extra/openSUSE_Leap_$releasever/
-path=/
-type=rpm-md
-priority=85
-keeppackages=0
