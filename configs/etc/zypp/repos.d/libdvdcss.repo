@@ -1,8 +1,0 @@
-[libdvdcss]
-name=libdvdcss
-enabled=1
-autorefresh=0
-baseurl=http://opensuse-guide.org/repo/openSUSE_Leap_$releasever/
-path=/
-type=rpm-md
-keeppackages=0
