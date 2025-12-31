@@ -7,6 +7,7 @@ C 0
 Z 0
 I /etc/default/grc
 I /etc/default/grub
+I /etc/modprobe.d/10-unsupported-modules.conf
 I /etc/sddm.conf.d/kde_settings.conf
 I /etc/selinux/config
 I /etc/zypp/repos.d
